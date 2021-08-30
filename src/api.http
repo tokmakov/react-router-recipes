@@ -1,0 +1,11 @@
+### Все категории
+GET www.themealdb.com/api/json/v1/1/categories.php
+
+### Рецепты категории
+www.themealdb.com/api/json/v1/1/filter.php?c=Seafood
+
+### Отдельный рецепт
+www.themealdb.com/api/json/v1/1/lookup.php?i=53050
+
+### Поиск рецепта по названию
+www.themealdb.com/api/json/v1/1/search.php?s=Arr
